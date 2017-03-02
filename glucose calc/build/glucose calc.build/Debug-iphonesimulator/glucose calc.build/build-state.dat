@@ -1,0 +1,357 @@
+Tglucose calc
+v7
+r0
+t473382157.674419
+cCheck dependencies
+cProcessInfoPlistFile "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/Info.plist" glucose_calc-Info.plist
+cCompileXIB "/Users/melissapickering/Documents/glucose calc/MainWindow.xib"
+cCompileXIB "/Users/melissapickering/Documents/glucose calc/glucose_calcViewController.xib"
+cProcessPCH /var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-cgyppniprwvbtvgsduhckheruqmc/glucose_calc_Prefix.pch.gch glucose_calc_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/main.o" "/Users/melissapickering/Documents/glucose calc/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/glucose_calcAppDelegate.o" "/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/glucose_calcViewController.o" "/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.h
+c0000000056844D1C0000000000000203
+t1451511068
+s515
+i<UIKit/UIKit.h>
+
+N/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.m
+c000000005687058B0000000000000AAA
+t1451689355
+s2730
+i"glucose_calcAppDelegate.h"
+i"glucose_calcViewController.h"
+
+N/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.h
+c000000005687052B00000000000001BB
+t1451689259
+s443
+i<UIKit/UIKit.h>
+
+N/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m
+c000000005687042C0000000000000466
+t1451689004
+s1126
+i"glucose_calcViewController.h"
+
+N/Users/melissapickering/Documents/glucose calc/MainWindow.xib
+c000000005684ADC20000000000009CDF
+t1451535810
+s40159
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app
+t1451687864
+s238
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app.dSYM
+t1451515004
+s102
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/Info.plist
+t1451689004
+s611
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/MainWindow.nib
+t1451687864
+s6204
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/PkgInfo
+t1451689004
+s8
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/glucose calc
+t1451515004
+s18060
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/glucose_calcViewController.nib
+t1451687864
+s4427
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/glucose calc.LinkFileList
+c0000000056845C7800000000000001CD
+t1451515000
+s461
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/glucose_calcAppDelegate.o
+t1451689356
+s53540
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/glucose_calcViewController.o
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/main.o
+t1451515002
+s6328
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/StaticAnalyzer/normal/i386/glucose_calcAppDelegate.plist
+t1451689064
+s276
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/StaticAnalyzer/normal/i386/glucose_calcViewController.plist
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/StaticAnalyzer/normal/i386/main.plist
+t1451689064
+s276
+
+N/Users/melissapickering/Documents/glucose calc/glucose_calcViewController.xib
+c000000005684ADC60000000000007059
+t1451535814
+s28761
+
+N/Users/melissapickering/Documents/glucose calc/glucose_calc_Prefix.pch
+c0000000056844D1C00000000000000C1
+t1451511068
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/melissapickering/Documents/glucose calc/main.m
+c0000000056844D1C0000000000000174
+t1451511068
+s372
+i<UIKit/UIKit.h>
+
+N/var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-cgyppniprwvbtvgsduhckheruqmc/glucose_calc_Prefix.pch.gch
+t1451515002
+s15814064
+
+N/var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-cyzzgfgekwdwskdpjrfbrwpbzxnf/glucose_calc_Prefix.pch.pth
+t1451689064
+s3353008
+
+Nglucose_calc-Info.plist
+c000000005687042C000000000000038D
+t1451689004
+s909
+
+CAnalyze "/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.m"
+s473381864.781420
+e473381864.834773
+r1
+xAnalyze
+x/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.m
+lSLF07#2@88"Analyze /Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.m473381864#473381864#0(0"0(0#0#80"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.m8607914080#2179"    cd "/Users/melissapickering/Documents/glucose calc"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-generated-files.hmap" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-own-target-headers.hmap" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-all-target-headers.hmap" -iquote "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-project-headers.hmap" "-F/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator" "-I/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/include" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/DerivedSources/i386" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/DerivedSources" -include /var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-cyzzgfgekwdwskdpjrfbrwpbzxnf/glucose_calc_Prefix.pch --analyze "/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.m" -o "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/StaticAnalyzer/normal/i386/glucose_calcAppDelegate.plist"0#
+
+CAnalyze "/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m"
+s473381864.786452
+e473381864.862453
+r1
+xAnalyze
+x/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:19:48: error: use of undeclared identifier 'BGinput'
+o         SelectNumber = SelectNumber - 130 = -8 / 50 = BGinput;
+o                                                       ^
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:28:38: error: use of undeclared identifier 'Carbsinput'
+o         SelectNumber = SelectNumber / 12  = Carbsinput;
+o                                             ^
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:39:2: error: use of undeclared identifier 'TotalInsulin'
+o         TotalInsulin = BGinput + Carbsinput;
+o         ^
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:39:17: error: use of undeclared identifier 'BGinput'
+o         TotalInsulin = BGinput + Carbsinput;
+o                        ^
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:39:27: error: use of undeclared identifier 'Carbsinput'
+o         TotalInsulin = BGinput + Carbsinput;
+o                                  ^
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:40:50: error: use of undeclared identifier 'TotalInsulin'
+o         Screen.text = [NSString stringWithFormat:@"%i", TotalInsulin]; 
+o                                                         ^
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:50:9: error: use of undeclared identifier 'didReceiveMemoryWarning'
+o - (void)didReceiveMemoryWarning {
+o         ^
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:67:5: error: expected '}'
+o @end
+o     ^
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:47:21: note: to match this '{'
+o - (void)viewDidLoad {
+o                     ^
+o8 errors generated.
+lSLF07#2@91"Analyze /Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381864#473381864#0(1907"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:19:48: error: use of undeclared identifier 'BGinput'         SelectNumber = SelectNumber - 130 = -8 / 50 = BGinput;                                                       ^/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:28:38: error: use of undeclared identifier 'Carbsinput'         SelectNumber = SelectNumber / 12  = Carbsinput;                                             ^/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:39:2: error: use of undeclared identifier 'TotalInsulin'         TotalInsulin = BGinput + Carbsinput;         ^/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:39:17: error: use of undeclared identifier 'BGinput'         TotalInsulin = BGinput + Carbsinput;                        ^/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:39:27: error: use of undeclared identifier 'Carbsinput'         TotalInsulin = BGinput + Carbsinput;                                  ^/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:40:50: error: use of undeclared identifier 'TotalInsulin'         Screen.text = [NSString stringWithFormat:@"%i", TotalInsulin];                                                          ^/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:50:9: error: use of undeclared identifier 'didReceiveMemoryWarning' - (void)didReceiveMemoryWarning {         ^/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:67:5: error: expected '}' @end     ^/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:47:21: note: to match this '{' - (void)viewDidLoad {                     ^8 errors generated.1(25@46"Analyzer skipped this file due to parse errors473381864#18446744073709551615#0#8(25@38"use of undeclared identifier 'BGinput'473381864#18446744073709551615#0#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#19#0#19#0#0"0(25@41"use of undeclared identifier 'Carbsinput'473381864#18446744073709551615#0#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#28#0#28#0#0"0(25@43"use of undeclared identifier 'TotalInsulin'473381864#18446744073709551615#0#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#39#0#39#0#0"0(25@38"use of undeclared identifier 'BGinput'473381864#18446744073709551615#0#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#39#0#39#0#0"0(25@41"use of undeclared identifier 'Carbsinput'473381864#18446744073709551615#0#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#39#0#39#0#0"0(25@43"use of undeclared identifier 'TotalInsulin'473381864#18446744073709551615#0#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#40#0#40#0#0"0(25@54"use of undeclared identifier 'didReceiveMemoryWarning'473381864#18446744073709551615#0#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#50#0#50#0#0"0(25@12"expected '}'473381864#18446744073709551615#0#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#67#0#67#0#0"0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#0#0#0#0#0"0(0#0#83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m8602348448#2185"    cd "/Users/melissapickering/Documents/glucose calc"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-generated-files.hmap" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-own-target-headers.hmap" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-all-target-headers.hmap" -iquote "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-project-headers.hmap" "-F/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator" "-I/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/include" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/DerivedSources/i386" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/DerivedSources" -include /var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-cyzzgfgekwdwskdpjrfbrwpbzxnf/glucose_calc_Prefix.pch --analyze "/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m" -o "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/StaticAnalyzer/normal/i386/glucose_calcViewController.plist"0#
+
+CAnalyze "/Users/melissapickering/Documents/glucose calc/main.m"
+s473381864.654819
+e473381864.786132
+r1
+xAnalyze
+x/Users/melissapickering/Documents/glucose calc/main.m
+lSLF07#2@61"Analyze /Users/melissapickering/Documents/glucose calc/main.m473381864#473381864#0(0"0(0#0#53"/Users/melissapickering/Documents/glucose calc/main.m8620738624#2133"    cd "/Users/melissapickering/Documents/glucose calc"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-generated-files.hmap" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-own-target-headers.hmap" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-all-target-headers.hmap" -iquote "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-project-headers.hmap" "-F/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator" "-I/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/include" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/DerivedSources/i386" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/DerivedSources" -include /var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-cyzzgfgekwdwskdpjrfbrwpbzxnf/glucose_calc_Prefix.pch --analyze "/Users/melissapickering/Documents/glucose calc/main.m" -o "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/StaticAnalyzer/normal/i386/main.plist"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies473382157#473382157#0(0"0(0#1#0"8621508992#0"0#
+
+CCompileC "build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/glucose_calcAppDelegate.o" "/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s473382156.814969
+e473382156.953768
+r1
+xCompileC
+xbuild/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/glucose_calcAppDelegate.o
+x/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.m473382156#473382156#0(0"0(0#0#80"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.m8622389920#2170"    cd "/Users/melissapickering/Documents/glucose calc"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-generated-files.hmap" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-own-target-headers.hmap" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-all-target-headers.hmap" -iquote "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-project-headers.hmap" "-F/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator" "-I/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/include" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/DerivedSources/i386" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/DerivedSources" -include /var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-cgyppniprwvbtvgsduhckheruqmc/glucose_calc_Prefix.pch -c "/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.m" -o "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/glucose_calcAppDelegate.o"0#
+
+CCompileC "build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/glucose_calcViewController.o" "/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s473382157.617946
+e473382157.674337
+r0
+xCompileC
+xbuild/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/glucose_calcViewController.o
+x/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m: In function '-[glucose_calcViewController BGinput:]':
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:19: error: 'BGinput' undeclared (first use in this function)
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:19: error: (Each undeclared identifier is reported only once
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:19: error: for each function it appears in.)
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m: In function '-[glucose_calcViewController Carbsinput:]':
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:28: error: 'Carbsinput' undeclared (first use in this function)
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m: In function '-[glucose_calcViewController Calculate:]':
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:39: error: 'TotalInsulin' undeclared (first use in this function)
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:39: error: 'BGinput' undeclared (first use in this function)
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:39: error: 'Carbsinput' undeclared (first use in this function)
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m: In function '-[glucose_calcViewController viewDidLoad]':
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:50: error: 'didReceiveMemoryWarning' undeclared (first use in this function)
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:50: error: void value not ignored as it ought to be
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:50: error: expected ';' before '{' token
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:67: error: expected declaration or statement at end of input
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m: At top level:
+o/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:67: warning: '@end' missing in implementation context
+lSLF07#2@91"Compile /Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473382157#473382157#0(2378"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m: In function '-[glucose_calcViewController BGinput:]':/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:19: error: 'BGinput' undeclared (first use in this function)/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:19: error: (Each undeclared identifier is reported only once/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:19: error: for each function it appears in.)/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m: In function '-[glucose_calcViewController Carbsinput:]':/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:28: error: 'Carbsinput' undeclared (first use in this function)/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m: In function '-[glucose_calcViewController Calculate:]':/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:39: error: 'TotalInsulin' undeclared (first use in this function)/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:39: error: 'BGinput' undeclared (first use in this function)/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:39: error: 'Carbsinput' undeclared (first use in this function)/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m: In function '-[glucose_calcViewController viewDidLoad]':/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:50: error: 'didReceiveMemoryWarning' undeclared (first use in this function)/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:50: error: void value not ignored as it ought to be/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:50: error: expected ';' before '{' token/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:67: error: expected declaration or statement at end of input/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m: At top level:/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m:67: warning: '@end' missing in implementation context11(4@49"'BGinput' undeclared (first use in this function)473382157#139#145#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#19#0#19#0#43"'*' undeclared (first use in this function)0(4@52"'Carbsinput' undeclared (first use in this function)473382157#700#148#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#28#0#28#0#43"'*' undeclared (first use in this function)0(4@54"'TotalInsulin' undeclared (first use in this function)473382157#989#150#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#39#0#39#0#43"'*' undeclared (first use in this function)0(4@49"'BGinput' undeclared (first use in this function)473382157#1139#145#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#39#0#39#0#43"'*' undeclared (first use in this function)0(4@52"'Carbsinput' undeclared (first use in this function)473382157#1284#148#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#39#0#39#0#43"'*' undeclared (first use in this function)0(4@65"'didReceiveMemoryWarning' undeclared (first use in this function)473382157#1574#161#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#50#0#50#0#43"'*' undeclared (first use in this function)0(4@40"Void value not ignored as it ought to be473382157#1735#136#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#50#0#50#0#40"void value not ignored as it ought to be0(4@29"Expected ';' before '{' token473382157#1871#125#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#50#0#50#0#19"expected * before *0(4@49"Expected declaration or statement at end of input473382157#1996#145#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#67#0#67#0#49"expected declaration or statement at end of input0(23@13"At top level:473382157#2141#99#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#0#0#0#0#0"0(22@40"'@end' missing in implementation context473382157#2240#138#0(6@83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m473381804#67#0#67#0#40"'@end' missing in implementation context0(0#0#83"/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m8621546208#2176"    cd "/Users/melissapickering/Documents/glucose calc"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-generated-files.hmap" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-own-target-headers.hmap" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-all-target-headers.hmap" -iquote "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-project-headers.hmap" "-F/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator" "-I/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/include" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/DerivedSources/i386" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/DerivedSources" -include /var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-cgyppniprwvbtvgsduhckheruqmc/glucose_calc_Prefix.pch -c "/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m" -o "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/glucose_calcViewController.o"1#
+
+CCompileC "build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/main.o" "/Users/melissapickering/Documents/glucose calc/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s473207802.194442
+e473207802.343551
+r1
+xCompileC
+xbuild/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/main.o
+x/Users/melissapickering/Documents/glucose calc/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/melissapickering/Documents/glucose calc/main.m473207802#473207802#0(0"0(0#0#53"/Users/melissapickering/Documents/glucose calc/main.m8622103808#2124"    cd "/Users/melissapickering/Documents/glucose calc"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-generated-files.hmap" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-own-target-headers.hmap" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-all-target-headers.hmap" -iquote "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-project-headers.hmap" "-F/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator" "-I/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/include" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/DerivedSources/i386" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/DerivedSources" -include /var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-cgyppniprwvbtvgsduhckheruqmc/glucose_calc_Prefix.pch -c "/Users/melissapickering/Documents/glucose calc/main.m" -o "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/melissapickering/Documents/glucose calc/MainWindow.xib"
+s473380663.631448
+e473380664.796959
+r1
+xCompileXIB
+x/Users/melissapickering/Documents/glucose calc/MainWindow.xib
+o2016-01-01 15:37:44.650 Interface Builder Cocoa Touch Tool[280:1803] CFPreferences: user home directory at file://localhost/Users/melissapickering/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+o/* com.apple.ibtool.document.warnings */
+o/Users/melissapickering/Documents/glucose calc/MainWindow.xib:10: warning: 'Glucose calc View Controller' has both its 'NIB Name' property set and its 'view' outlet connected. This configuration is not supported.
+lSLF07#2@25"CompileXIB MainWindow.xib473380663#473380664#0(587"2016-01-01 15:37:44.650 Interface Builder Cocoa Touch Tool[280:1803] CFPreferences: user home directory at file://localhost/Users/melissapickering/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.Couldn't open shared capabilities memory GSCapabilities (No such file or directory)/* com.apple.ibtool.document.warnings *//Users/melissapickering/Documents/glucose calc/MainWindow.xib:10: warning: 'Glucose calc View Controller' has both its 'NIB Name' property set and its 'view' outlet connected. This configuration is not supported.1(22@137"'Glucose calc View Controller' has both its 'NIB Name' property set and its 'view' outlet connected. This configuration is not supported.473380664#18446744073709551615#0#0(6@61"/Users/melissapickering/Documents/glucose calc/MainWindow.xib473228610#10#0#10#0#0"0(0#0#61"/Users/melissapickering/Documents/glucose calc/MainWindow.xib32088581143724132#605"    cd "/Users/melissapickering/Documents/glucose calc"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/MainWindow.nib" "/Users/melissapickering/Documents/glucose calc/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/melissapickering/Documents/glucose calc/glucose_calcViewController.xib"
+s473380663.661726
+e473380664.780625
+r1
+xCompileXIB
+x/Users/melissapickering/Documents/glucose calc/glucose_calcViewController.xib
+o2016-01-01 15:37:44.613 Interface Builder Cocoa Touch Tool[279:903] CFPreferences: user home directory at file://localhost/Users/melissapickering/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@41"CompileXIB glucose_calcViewController.xib473380663#473380664#0(332"2016-01-01 15:37:44.613 Interface Builder Cocoa Touch Tool[279:903] CFPreferences: user home directory at file://localhost/Users/melissapickering/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#77"/Users/melissapickering/Documents/glucose calc/glucose_calcViewController.xib8606071744#637"    cd "/Users/melissapickering/Documents/glucose calc"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/glucose_calcViewController.nib" "/Users/melissapickering/Documents/glucose calc/glucose_calcViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app.dSYM" "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/glucose calc"
+s473207804.921621
+e473207804.975284
+r1
+xGenerateDSYMFile
+x/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app.dSYM
+x/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/glucose calc
+lSLF07#2@128"GenerateDSYMFile "build/Debug-iphonesimulator/glucose calc.app.dSYM" "build/Debug-iphonesimulator/glucose calc.app/glucose calc"473207804#473207804#0(0"0(0#0#104"/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/glucose calc8622227072#428"    cd "/Users/melissapickering/Documents/glucose calc"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/glucose calc" -o "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app.dSYM"0#
+
+CLd "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/glucose calc" normal i386
+s473207804.766548
+e473207804.921517
+r1
+xLd
+x/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/glucose calc
+xnormal
+xi386
+lSLF07#2@109"Link /Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/glucose calc473207804#473207804#0(0"0(0#0#0"8622132992#975"    cd "/Users/melissapickering/Documents/glucose calc"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator" "-F/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator" -filelist "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/glucose calc.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/glucose calc"0#
+
+CProcessInfoPlistFile "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/Info.plist" glucose_calc-Info.plist
+s473381804.700060
+e473381804.704854
+r1
+xProcessInfoPlistFile
+x/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/Info.plist
+xglucose_calc-Info.plist
+lSLF07#2@31"Process glucose_calc-Info.plist473381804#473381804#0(0"0(0#0#70"/Users/melissapickering/Documents/glucose calc/glucose_calc-Info.plist8622658016#524"    cd "/Users/melissapickering/Documents/glucose calc"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility glucose_calc-Info.plist -genpkginfo "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/Info.plist"0#
+
+CProcessPCH /var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-cgyppniprwvbtvgsduhckheruqmc/glucose_calc_Prefix.pch.gch glucose_calc_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s473207801.037706
+e473207802.194097
+r1
+xProcessPCH
+x/var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-cgyppniprwvbtvgsduhckheruqmc/glucose_calc_Prefix.pch.gch
+xglucose_calc_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile glucose_calc_Prefix.pch473207801#473207802#0(0"0(0#0#70"/Users/melissapickering/Documents/glucose calc/glucose_calc_Prefix.pch8613314624#2001"    cd "/Users/melissapickering/Documents/glucose calc"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-generated-files.hmap" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-own-target-headers.hmap" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-all-target-headers.hmap" -iquote "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-project-headers.hmap" "-F/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator" "-I/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/include" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/DerivedSources/i386" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/DerivedSources" -c "/Users/melissapickering/Documents/glucose calc/glucose_calc_Prefix.pch" -o /var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-cgyppniprwvbtvgsduhckheruqmc/glucose_calc_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-cyzzgfgekwdwskdpjrfbrwpbzxnf/glucose_calc_Prefix.pch.pth glucose_calc_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s473381863.388822
+e473381864.603986
+r1
+xProcessPCH
+x/var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-cyzzgfgekwdwskdpjrfbrwpbzxnf/glucose_calc_Prefix.pch.pth
+xglucose_calc_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@34"Precompile glucose_calc_Prefix.pch473381863#473381864#0(0"0(0#0#70"/Users/melissapickering/Documents/glucose calc/glucose_calc_Prefix.pch8622695840#1992"    cd "/Users/melissapickering/Documents/glucose calc"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-generated-files.hmap" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-own-target-headers.hmap" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-all-target-headers.hmap" -iquote "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/glucose calc-project-headers.hmap" "-F/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator" "-I/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/include" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/DerivedSources/i386" "-I/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/DerivedSources" -c "/Users/melissapickering/Documents/glucose calc/glucose_calc_Prefix.pch" -o /var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-cyzzgfgekwdwskdpjrfbrwpbzxnf/glucose_calc_Prefix.pch.pth0#
+
+CTouch "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app"
+s473207804.975387
+e473207805.000085
+r1
+xTouch
+x/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app
+lSLF07#2@97"Touch /Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app473207804#473207805#0(0"0(0#0#0"8621912384#303"    cd "/Users/melissapickering/Documents/glucose calc"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app"0#
+

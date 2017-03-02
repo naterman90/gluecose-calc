@@ -1,0 +1,166 @@
+Tglucose calc
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.h
+c0000000056844D1C0000000000000203
+t1451511068
+s515
+i<UIKit/UIKit.h>
+
+N/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.m
+c0000000056844D1C0000000000000AC9
+t1451511068
+s2761
+i"glucose_calcAppDelegate.h"
+i"glucose_calcViewController.h"
+
+N/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.h
+c0000000056844D1C0000000000000103
+t1451511068
+s259
+i<UIKit/UIKit.h>
+
+N/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m
+c0000000056844D1C00000000000005DB
+t1451511068
+s1499
+i"glucose_calcViewController.h"
+
+N/Users/melissapickering/Documents/glucose calc/MainWindow.xib
+c0000000056844D1C0000000000004E65
+t1451511068
+s20069
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app.dSYM
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/Info.plist
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/MainWindow.nib
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/PkgInfo
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/glucose calc
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/glucose_calcViewController.nib
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/glucose calc.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/glucose_calcAppDelegate.o
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/glucose_calcViewController.o
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/glucose_calcViewController.xib
+c0000000056844D1C0000000000001A59
+t1451511068
+s6745
+
+N/Users/melissapickering/Documents/glucose calc/glucose_calc_Prefix.pch
+c0000000056844D1C00000000000000C1
+t1451511068
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/melissapickering/Documents/glucose calc/main.m
+c0000000056844D1C0000000000000174
+t1451511068
+s372
+i<UIKit/UIKit.h>
+
+N/var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-cgyppniprwvbtvgsduhckheruqmc/glucose_calc_Prefix.pch.gch
+t2
+s0
+
+Nglucose_calc-Info.plist
+c0000000056844D1C000000000000038D
+t1451511068
+s909
+
+CCompileC "build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/glucose_calcAppDelegate.o" "/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/glucose_calcViewController.o" "/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/glucose calc.build/Debug-iphonesimulator/glucose calc.build/Objects-normal/i386/main.o" "/Users/melissapickering/Documents/glucose calc/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/melissapickering/Documents/glucose calc/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/melissapickering/Documents/glucose calc/glucose_calcViewController.xib"
+r0
+
+CGenerateDSYMFile "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app.dSYM" "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/glucose calc"
+r0
+
+CLd "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/glucose calc" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app/Info.plist" glucose_calc-Info.plist
+r0
+
+CProcessPCH /var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-cgyppniprwvbtvgsduhckheruqmc/glucose_calc_Prefix.pch.gch glucose_calc_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/melissapickering/Documents/glucose calc/build/Debug-iphonesimulator/glucose calc.app"
+r0
+

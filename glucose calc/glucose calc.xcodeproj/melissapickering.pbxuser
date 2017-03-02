@@ -1,0 +1,310 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* glucose_calcAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {924, 374}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 515}";
+		};
+	};
+	1D3623250D0F684500981E51 /* glucose_calcAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{2729, 0}";
+			sepNavVisRange = "{0, 757}";
+			sepNavWindowFrame = "{{15, 135}, {750, 558}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* glucose calc */ = {
+		activeExec = 0;
+		executables = (
+			C9B66B9E1C34849C00162C7D /* glucose calc */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* glucose_calcViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {924, 390}}";
+			sepNavSelRange = "{338, 0}";
+			sepNavVisRange = "{0, 443}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* glucose_calcViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {481, 949}}";
+			sepNavSelRange = "{1125, 0}";
+			sepNavVisRange = "{726, 240}";
+			sepNavWindowFrame = "{{38, 114}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C9B66B9E1C34849C00162C7D /* glucose calc */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* glucose calc */;
+		breakpoints = (
+			C9B66BDE1C34DE1100162C7D /* glucose_calcViewController.m:28 */,
+		);
+		codeSenseManager = C9B66BAF1C3484B500162C7D /* Code sense */;
+		executables = (
+			C9B66B9E1C34849C00162C7D /* glucose calc */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					746,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 473380517;
+			PBXWorkspaceStateSaveDate = 473380517;
+		};
+		perUserProjectItems = {
+			C9B66BEC1C34E24700162C7D /* PBXTextBookmark */ = C9B66BEC1C34E24700162C7D /* PBXTextBookmark */;
+			C9E311741C3739E800A91419 /* PBXTextBookmark */ = C9E311741C3739E800A91419 /* PBXTextBookmark */;
+			C9E311751C3739E800A91419 /* PBXTextBookmark */ = C9E311751C3739E800A91419 /* PBXTextBookmark */;
+			C9E312611C373D1100A91419 /* PlistBookmark */ = C9E312611C373D1100A91419 /* PlistBookmark */;
+			C9E312621C373D1100A91419 /* PBXTextBookmark */ = C9E312621C373D1100A91419 /* PBXTextBookmark */;
+			C9E312641C373D1100A91419 /* PBXTextBookmark */ = C9E312641C373D1100A91419 /* PBXTextBookmark */;
+			C9E312651C373D1100A91419 /* PBXTextBookmark */ = C9E312651C373D1100A91419 /* PBXTextBookmark */;
+			C9E312661C373D1100A91419 /* PBXTextBookmark */ = C9E312661C373D1100A91419 /* PBXTextBookmark */;
+			C9E312681C373D1100A91419 /* PBXTextBookmark */ = C9E312681C373D1100A91419 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C9B66BAE1C3484B500162C7D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 372}";
+			sepNavWindowFrame = "{{15, 135}, {750, 558}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* glucose_calc_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {924, 374}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 193}";
+		};
+	};
+	C9B66B9E1C34849C00162C7D /* glucose calc */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "glucose calc";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C9B66BAE1C3484B500162C7D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C9B66BAF1C3484B500162C7D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C9B66BDE1C34DE1100162C7D /* glucose_calcViewController.m:28 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* glucose_calcViewController.m */;
+		functionName = "-Carbsinput:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 28;
+		modificationTime = 473226780.8693479;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	C9B66BEC1C34E24700162C7D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 372;
+		vrLoc = 0;
+	};
+	C9E311741C3739E800A91419 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* glucose_calcAppDelegate.m */;
+		name = "glucose_calcAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 757;
+		vrLoc = 0;
+	};
+	C9E311751C3739E800A91419 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* glucose_calc_Prefix.pch */;
+		name = "glucose_calc_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 193;
+		vrLoc = 0;
+	};
+	C9E312611C373D1100A91419 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* glucose_calc-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/melissapickering/Documents/glucose calc/glucose_calc-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	C9E312621C373D1100A91419 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9E312631C373D1100A91419 /* CGError.h */;
+		name = "CGError.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 732;
+		vrLoc = 0;
+	};
+	C9E312631C373D1100A91419 /* CGError.h */ = {
+		isa = PBXFileReference;
+		name = CGError.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGError.h;
+		sourceTree = "<absolute>";
+	};
+	C9E312641C373D1100A91419 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* glucose_calcViewController.m */;
+		name = "glucose_calcViewController.m: 28";
+		rLen = 0;
+		rLoc = 499;
+		rType = 0;
+		vrLen = 515;
+		vrLoc = 605;
+	};
+	C9E312651C373D1100A91419 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* glucose_calcViewController.h */;
+		name = "glucose_calcViewController.h: 24";
+		rLen = 0;
+		rLoc = 338;
+		rType = 0;
+		vrLen = 443;
+		vrLoc = 0;
+	};
+	C9E312661C373D1100A91419 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* glucose_calcAppDelegate.h */;
+		name = "glucose_calcAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 515;
+		vrLoc = 0;
+	};
+	C9E312681C373D1100A91419 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* glucose_calcAppDelegate.m */;
+		name = "glucose_calcAppDelegate.m: 88";
+		rLen = 0;
+		rLoc = 2729;
+		rType = 0;
+		vrLen = 757;
+		vrLoc = 0;
+	};
+}

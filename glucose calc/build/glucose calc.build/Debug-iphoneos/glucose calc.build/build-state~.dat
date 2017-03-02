@@ -1,0 +1,230 @@
+Tglucose calc
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D7401890000000000000110
+t1299448201
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.h
+c0000000056844D1C0000000000000203
+t1451511068
+s515
+i<UIKit/UIKit.h>
+
+N/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.m
+c0000000056844D1C0000000000000AC9
+t1451511068
+s2761
+i"glucose_calcAppDelegate.h"
+i"glucose_calcViewController.h"
+
+N/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.h
+c0000000056845C4800000000000001BB
+t1451514952
+s443
+i<UIKit/UIKit.h>
+
+N/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m
+c0000000056845C480000000000000654
+t1451514952
+s1620
+i"glucose_calcViewController.h"
+
+N/Users/melissapickering/Documents/glucose calc/MainWindow.xib
+c0000000056844D1C0000000000004E65
+t1451511068
+s20069
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphoneos/glucose calc.app
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphoneos/glucose calc.app.dSYM
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphoneos/glucose calc.app/Info.plist
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphoneos/glucose calc.app/MainWindow.nib
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphoneos/glucose calc.app/PkgInfo
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphoneos/glucose calc.app/ResourceRules.plist
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphoneos/glucose calc.app/glucose calc
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/Debug-iphoneos/glucose calc.app/glucose_calcViewController.nib
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv6/glucose calc
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv6/glucose calc.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv6/glucose_calcAppDelegate.o
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv6/glucose_calcViewController.o
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv7/glucose calc
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv7/glucose calc.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv7/glucose_calcAppDelegate.o
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv7/glucose_calcViewController.o
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/melissapickering/Documents/glucose calc/glucose_calcViewController.xib
+c0000000056845296000000000000604C
+t1451512470
+s24652
+
+N/Users/melissapickering/Documents/glucose calc/glucose_calc_Prefix.pch
+c0000000056844D1C00000000000000C1
+t1451511068
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/melissapickering/Documents/glucose calc/main.m
+c0000000056844D1C0000000000000174
+t1451511068
+s372
+i<UIKit/UIKit.h>
+
+N/var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-aqvkekzfqjybtggilquonusbgsoy/glucose_calc_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-gvkiiewjeaukikcwachwxvcutlwo/glucose_calc_Prefix.pch.gch
+t2
+s0
+
+Nglucose_calc-Info.plist
+c0000000056844D1C000000000000038D
+t1451511068
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies473207752#473207752#0(133"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain1(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain473207752#18446744073709551615#0#0(1@0"0(0#1#0"27866456492998768#0"0#
+
+CCompileC "build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv6/glucose_calcAppDelegate.o" "/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv6/glucose_calcViewController.o" "/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv6/main.o" "/Users/melissapickering/Documents/glucose calc/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv7/glucose_calcAppDelegate.o" "/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv7/glucose_calcViewController.o" "/Users/melissapickering/Documents/glucose calc/Classes/glucose_calcViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv7/main.o" "/Users/melissapickering/Documents/glucose calc/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/melissapickering/Documents/glucose calc/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/melissapickering/Documents/glucose calc/glucose_calcViewController.xib"
+r0
+
+CCpResource "build/Debug-iphoneos/glucose calc.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/melissapickering/Documents/glucose calc/build/Debug-iphoneos/glucose calc.app/glucose calc" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/melissapickering/Documents/glucose calc/build/Debug-iphoneos/glucose calc.app.dSYM" "/Users/melissapickering/Documents/glucose calc/build/Debug-iphoneos/glucose calc.app/glucose calc"
+r0
+
+CLd "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv6/glucose calc" normal armv6
+r0
+
+CLd "/Users/melissapickering/Documents/glucose calc/build/glucose calc.build/Debug-iphoneos/glucose calc.build/Objects-normal/armv7/glucose calc" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/melissapickering/Documents/glucose calc/build/Debug-iphoneos/glucose calc.app/Info.plist" glucose_calc-Info.plist
+r0
+
+CProcessPCH /var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-aqvkekzfqjybtggilquonusbgsoy/glucose_calc_Prefix.pch.gch glucose_calc_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/RU/RUmRBijzEA4GvlMl8lMo0++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/glucose_calc_Prefix-gvkiiewjeaukikcwachwxvcutlwo/glucose_calc_Prefix.pch.gch glucose_calc_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/melissapickering/Documents/glucose calc/build/Debug-iphoneos/glucose calc.app"
+r0
+
